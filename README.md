@@ -1,3 +1,4 @@
+In the Python_Assigmrnt folder is the Python script and other needed input files as well as the output files. 
 The Python script is a comprehensive bioinformatics pipeline aimed at analyzing mitochondrial cytochrome b (cytb) gene sequences in various penguin species. 
 The script begins by setting up a scientific computing environment through the installation and importation of essential Python libraries. 
 These include Biopython for handling biological sequences, pandas and numpy for data manipulation and numerical operations, matplotlib and seaborn for data visualization, and scikit-learn for performing machine learning tasks like Principal Component Analysis (PCA). 
